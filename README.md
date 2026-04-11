@@ -1,5 +1,4 @@
-book---cipher---core
-Ky projekt paraqet dizajnin dhe implementimin e dy teknikave klasike të enkriptimit në fushën e Kriptografisë: - Book Cipher (zëvendësim i bazuar në indeks) - Route Transposition Cipher (rregullim i bazuar në permutim)
+
 # Book-Cipher-dhe-Route-Transposition.
 Ky projekt paraqet dizajnin dhe implementimin e dy teknikave klasike të enkriptimit në fushën e Kriptografisë:
 - Book Cipher (zëvendësim i bazuar në indeks)*
