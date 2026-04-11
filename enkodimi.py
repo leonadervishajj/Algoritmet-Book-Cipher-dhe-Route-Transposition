@@ -1,6 +1,6 @@
 def encode(message, index):
-    if not message:
-        return ""
+    if not message:  #enkripton mesazhin duke perdorur indeksin e krijuar nga libri
+        return ""    #kontrollon inputin
 
     message = message.lower().strip()
     words = message.split()
