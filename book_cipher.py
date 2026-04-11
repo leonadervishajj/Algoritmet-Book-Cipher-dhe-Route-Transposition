@@ -4,7 +4,6 @@ def normalize_text(text):
 def split_text(text):
     return text.split()  #dy funksione që e kthejnë tekstin në lowercase dhe i heq hapësirat e panevojshme. dhe funksioni tjetër e ndan tekstin në fjalë
 
-
 def create_index(book_text):
     words = book_text.lower().split
     index = {}
